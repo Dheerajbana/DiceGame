@@ -1,0 +1,116 @@
+/usr/local/bin/python3.7 /Users/dchellaraman/PycharmProjects/GreatLearning/DiceGame.py
+
+***************************** Welcome to the Dice Game ******************************
+Please Enter Number Of Players separated by a space with Maximum Points to Accumulate
+2 10
+********************** We have 2 players in the game ********************************
+**************************** Lets Start The Game ************************************
+Player-1 its your turn (press 'r' to roll the dice)r
+
+[-----]
+[     ]
+[  0  ]
+[     ]
+[-----]
+
+Player-1 got 1
+
+Player-1 Total Score: 1
+
+************************** No one completed the game yet *************************
+
+Player-2 its your turn (press 'r' to roll the dice)r
+
+[-----]
+[0   0]
+[     ]
+[0   0]
+[-----]
+
+Player-2 got 4
+
+Player-2 Total Score: 4
+
+************************** No one completed the game yet *************************
+
+Player-1 its your turn (press 'r' to roll the dice)r
+
+[-----]
+[0   0]
+[     ]
+[0   0]
+[-----]
+
+Player-1 got 4
+
+Player-1 Total Score: 5
+
+************************** No one completed the game yet *************************
+
+Player-2 its your turn (press 'r' to roll the dice)r
+
+[-----]
+[0   0]
+[  0  ]
+[0   0]
+[-----]
+
+Player-2 got 5
+
+Player-2 Total Score: 9
+
+************************** No one completed the game yet *************************
+
+Player-1 its your turn (press 'r' to roll the dice)r
+
+[-----]
+[ 0   ]
+[     ]
+[   0 ]
+[-----]
+
+Player-1 got 2
+
+Player-1 Total Score: 7
+
+************************** No one completed the game yet *************************
+
+Player-2 its your turn (press 'r' to roll the dice)r
+
+[-----]
+[0   0]
+[     ]
+[0   0]
+[-----]
+
+Player-2 got 4
+
+Player-2 Total Score: 13
+
+Dice Game completed for Player-2 with Rank 1 and Score 13
+
+****************************** Current Standings *****************************
+******************** Player-2 on Rank: 1 with 13 Points ***********************
+
+Player-1 its your turn (press 'r' to roll the dice)r
+
+[-----]
+[     ]
+[0 0 0]
+[     ]
+[-----]
+
+Player-1 got 3
+
+Player-1 Total Score: 10
+
+Dice Game completed for Player-1 with Rank 2 and Score 10
+
+***************************** Final Standings ********************************
+
+******************** Player-2 on Rank: 1 with 13 Points ***********************
+******************** Player-1 on Rank: 2 with 10 Points ***********************
+
+********************* Game Has Ended Thanks For Playing **********************
+
+Process finished with exit code 0

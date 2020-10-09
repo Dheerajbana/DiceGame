@@ -1,0 +1,355 @@
+/usr/local/bin/python3.7 /Users/dchellaraman/PycharmProjects/GreatLearning/DiceGame.py
+
+***************************** Welcome to the Dice Game ******************************
+Please Enter Number Of Players separated by a space with Maximum Points to Accumulate
+6 10
+********************** We have 6 players in the game ********************************
+**************************** Lets Start The Game ************************************
+Player-1 its your turn (press 'r' to roll the dice)r
+
+[-----]
+[     ]
+[  0  ]
+[     ]
+[-----]
+
+Player-1 got 1
+
+Player-1 Total Score: 1
+
+************************** No one completed the game yet *************************
+
+Player-4 its your turn (press 'r' to roll the dice)r
+
+[-----]
+[     ]
+[0 0 0]
+[     ]
+[-----]
+
+Player-4 got 3
+
+Player-4 Total Score: 3
+
+************************** No one completed the game yet *************************
+
+Player-5 its your turn (press 'r' to roll the dice)r
+
+[-----]
+[     ]
+[  0  ]
+[     ]
+[-----]
+
+Player-5 got 1
+
+Player-5 Total Score: 1
+
+************************** No one completed the game yet *************************
+
+Player-6 its your turn (press 'r' to roll the dice)r
+
+[-----]
+[0   0]
+[     ]
+[0   0]
+[-----]
+
+Player-6 got 4
+
+Player-6 Total Score: 4
+
+************************** No one completed the game yet *************************
+
+Player-2 its your turn (press 'r' to roll the dice)r
+
+[-----]
+[0 0 0]
+[     ]
+[0 0 0]
+[-----]
+
+ Horray you got a 6 you will get one more chance to roll dice
+Player-2 got 6
+
+Player-2 Total Score: 6
+
+************************** No one completed the game yet *************************
+
+Player-2 its your turn (press 'r' to roll the dice)r
+
+[-----]
+[ 0   ]
+[     ]
+[   0 ]
+[-----]
+
+Player-2 got 2
+
+Player-2 Total Score: 8
+
+************************** No one completed the game yet *************************
+
+Player-3 its your turn (press 'r' to roll the dice)r
+
+[-----]
+[0   0]
+[     ]
+[0   0]
+[-----]
+
+Player-3 got 4
+
+Player-3 Total Score: 4
+
+************************** No one completed the game yet *************************
+
+Player-1 its your turn (press 'r' to roll the dice)r
+
+[-----]
+[0 0 0]
+[     ]
+[0 0 0]
+[-----]
+
+ Horray you got a 6 you will get one more chance to roll dice
+Player-1 got 6
+
+Player-1 Total Score: 7
+
+************************** No one completed the game yet *************************
+
+Player-1 its your turn (press 'r' to roll the dice)r
+
+[-----]
+[ 0   ]
+[     ]
+[   0 ]
+[-----]
+
+Player-1 got 2
+
+Player-1 Total Score: 9
+
+************************** No one completed the game yet *************************
+
+Player-4 its your turn (press 'r' to roll the dice)r
+
+[-----]
+[ 0   ]
+[     ]
+[   0 ]
+[-----]
+
+Player-4 got 2
+
+Player-4 Total Score: 5
+
+************************** No one completed the game yet *************************
+
+Player-5 its your turn (press 'r' to roll the dice)r
+
+[-----]
+[     ]
+[  0  ]
+[     ]
+[-----]
+
+Player-5 got 1
+
+Player-5 Total Score: 2
+
+************************** No one completed the game yet *************************
+
+Player-6 its your turn (press 'r' to roll the dice)r
+
+[-----]
+[     ]
+[0 0 0]
+[     ]
+[-----]
+
+Player-6 got 3
+
+Player-6 Total Score: 7
+
+************************** No one completed the game yet *************************
+
+Player-2 its your turn (press 'r' to roll the dice)r
+
+[-----]
+[0 0 0]
+[     ]
+[0 0 0]
+[-----]
+
+ Horray you got a 6 you will get one more chance to roll dice
+Player-2 got 6
+
+Player-2 Total Score: 14
+
+Dice Game completed for Player-2 with Rank 1 and Score 14
+
+****************************** Current Standings *****************************
+******************** Player-2 on Rank: 1 with 14 Points ***********************
+
+Player-3 its your turn (press 'r' to roll the dice)r
+
+[-----]
+[0   0]
+[     ]
+[0   0]
+[-----]
+
+Player-3 got 4
+
+Player-3 Total Score: 8
+
+****************************** Current Standings *****************************
+******************** Player-2 on Rank: 1 with 14 Points ***********************
+
+Player-1 its your turn (press 'r' to roll the dice)r
+
+[-----]
+[     ]
+[  0  ]
+[     ]
+[-----]
+
+Player-1 got 1
+
+Player-1 Total Score: 10
+
+Dice Game completed for Player-1 with Rank 2 and Score 10
+
+****************************** Current Standings *****************************
+******************** Player-2 on Rank: 1 with 14 Points ***********************
+******************** Player-1 on Rank: 2 with 10 Points ***********************
+
+Player-4 its your turn (press 'r' to roll the dice)r
+
+[-----]
+[0 0 0]
+[     ]
+[0 0 0]
+[-----]
+
+ Horray you got a 6 you will get one more chance to roll dice
+Player-4 got 6
+
+Player-4 Total Score: 11
+
+Dice Game completed for Player-4 with Rank 3 and Score 11
+
+****************************** Current Standings *****************************
+******************** Player-2 on Rank: 1 with 14 Points ***********************
+******************** Player-1 on Rank: 2 with 10 Points ***********************
+******************** Player-4 on Rank: 3 with 11 Points ***********************
+
+**** Sorry Player-5 You wont get next chance as you got two 1's consecutively ****
+
+Player-6 its your turn (press 'r' to roll the dice)r
+
+[-----]
+[0   0]
+[  0  ]
+[0   0]
+[-----]
+
+Player-6 got 5
+
+Player-6 Total Score: 12
+
+Dice Game completed for Player-6 with Rank 4 and Score 12
+
+****************************** Current Standings *****************************
+******************** Player-2 on Rank: 1 with 14 Points ***********************
+******************** Player-1 on Rank: 2 with 10 Points ***********************
+******************** Player-4 on Rank: 3 with 11 Points ***********************
+******************** Player-6 on Rank: 4 with 12 Points ***********************
+
+Player-3 its your turn (press 'r' to roll the dice)r
+
+[-----]
+[     ]
+[0 0 0]
+[     ]
+[-----]
+
+Player-3 got 3
+
+Player-3 Total Score: 11
+
+Dice Game completed for Player-3 with Rank 5 and Score 11
+
+****************************** Current Standings *****************************
+******************** Player-2 on Rank: 1 with 14 Points ***********************
+******************** Player-1 on Rank: 2 with 10 Points ***********************
+******************** Player-4 on Rank: 3 with 11 Points ***********************
+******************** Player-6 on Rank: 4 with 12 Points ***********************
+******************** Player-3 on Rank: 5 with 11 Points ***********************
+
+Player-5 its your turn (press 'r' to roll the dice)r
+
+[-----]
+[ 0   ]
+[     ]
+[   0 ]
+[-----]
+
+Player-5 got 2
+
+Player-5 Total Score: 4
+
+****************************** Current Standings *****************************
+******************** Player-2 on Rank: 1 with 14 Points ***********************
+******************** Player-1 on Rank: 2 with 10 Points ***********************
+******************** Player-4 on Rank: 3 with 11 Points ***********************
+******************** Player-6 on Rank: 4 with 12 Points ***********************
+******************** Player-3 on Rank: 5 with 11 Points ***********************
+
+Player-5 its your turn (press 'r' to roll the dice)r
+
+[-----]
+[0   0]
+[  0  ]
+[0   0]
+[-----]
+
+Player-5 got 5
+
+Player-5 Total Score: 9
+
+****************************** Current Standings *****************************
+******************** Player-2 on Rank: 1 with 14 Points ***********************
+******************** Player-1 on Rank: 2 with 10 Points ***********************
+******************** Player-4 on Rank: 3 with 11 Points ***********************
+******************** Player-6 on Rank: 4 with 12 Points ***********************
+******************** Player-3 on Rank: 5 with 11 Points ***********************
+
+Player-5 its your turn (press 'r' to roll the dice)r
+
+[-----]
+[ 0   ]
+[     ]
+[   0 ]
+[-----]
+
+Player-5 got 2
+
+Player-5 Total Score: 11
+
+Dice Game completed for Player-5 with Rank 6 and Score 11
+
+***************************** Final Standings ********************************
+
+******************** Player-2 on Rank: 1 with 14 Points ***********************
+******************** Player-1 on Rank: 2 with 10 Points ***********************
+******************** Player-4 on Rank: 3 with 11 Points ***********************
+******************** Player-6 on Rank: 4 with 12 Points ***********************
+******************** Player-3 on Rank: 5 with 11 Points ***********************
+******************** Player-5 on Rank: 6 with 11 Points ***********************
+
+********************* Game Has Ended Thanks For Playing **********************
+
+Process finished with exit code 0
